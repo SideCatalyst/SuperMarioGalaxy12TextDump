@@ -13,10 +13,10 @@ You can find the text of every language combined into one file here:
 You can also find versions of each language individually here too:
 <table>
     <tr>
-        <td>US</td>
-        <td>Europe</td>
-        <td>Japanese</td>
-        <td>Korean</td>
+        <th>US</th>
+        <th>Europe</th>
+        <th>Japan</th>
+        <th>Korea</th>
     </tr>
     <tr>
         <td>English <a href="Galaxy1/UsEnglish.html">HTML</a> / <a href="Galaxy1/UsEnglish.json">JSON</a></td>
@@ -65,9 +65,9 @@ You can find the text of every language combined into one file here:
 You can also find HTML files of each language individually here too:
 <table>
     <tr>
-        <td>US</td>
-        <td>Europe</td>
-        <td>Japanese</td>
+        <th>US</th>
+        <th>Europe</th>
+        <th>Japan</th>
     </tr>
     <tr>
         <td>English <a href="Galaxy2/UsEnglish.html">HTML</a> / <a href="Galaxy2/UsEnglish.json">JSON</a></td>
