@@ -19,38 +19,38 @@ You can also find versions of each language individually here too:
         <td>Korean</td>
     </tr>
     <tr>
-        <td>English [HTML](Galaxy1/UsEnglish.html) / [JSON](Galaxy1/UsEnglish.json)</td>
-        <td>English [HTML](Galaxy1/EuEnglish.html) / [JSON](Galaxy1/EuEnglish.json)</td>
-        <td>Japanese [HTML](Galaxy1/JpJapanese.html) / [JSON](Galaxy1/JpJapanese.json)</td>
-        <td>Korean [HTML](Galaxy1/KrKorean.html) / [JSON](Galaxy1/KrKorean.json)</td>
+        <td>English <a href="Galaxy1/UsEnglish.html">HTML</a> / <a href="Galaxy1/UsEnglish.json">JSON</a></td>
+        <td>English <a href="Galaxy1/EuEnglish.html">HTML</a> / <a href="Galaxy1/EuEnglish.json">JSON</a></td>
+        <td>Japanese <a href="Galaxy1/JpJapanese.html">HTML</a> / <a href="Galaxy1/JpJapanese.json">JSON</a></td>
+        <td>Korean <a href="Galaxy1/KrKorean.html">HTML</a> / <a href="Galaxy1/KrKorean.json">JSON</a></td>
     </tr>
     <tr>
-        <td>French [HTML](Galaxy1/UsFrench.html) / [JSON](Galaxy1/UsFrench.json)</td>
-        <td>French [HTML](Galaxy1/EuFrench.html) / [JSON](Galaxy1/EuFrench.json)</td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Spanish [HTML](Galaxy1/UsSpanish.html) / [JSON](Galaxy1/UsSpanish.json)</td>
-        <td>Spanish [HTML](Galaxy1/EuSpanish.html) / [JSON](Galaxy1/EuSpanish.json)</td>
+        <td>French <a href="Galaxy1/UsFrench.html">HTML</a> / <a href="Galaxy1/UsFrench.json">JSON</a></td>
+        <td>French <a href="Galaxy1/EuFrench.html">HTML</a> / <a href="Galaxy1/EuFrench.json">JSON</a></td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-        <td></td>
-        <td>German [HTML](Galaxy1/EuGerman.html) / [JSON](Galaxy1/EuGerman.json)</td>
+        <td>Spanish <a href="Galaxy1/UsSpanish.html">HTML</a> / <a href="Galaxy1/UsSpanish.json">JSON</a></td>
+        <td>Spanish <a href="Galaxy1/EuSpanish.html">HTML</a> / <a href="Galaxy1/EuSpanish.json">JSON</a></td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td></td>
-        <td>Italian [HTML](Galaxy1/EuItalian.html) / [JSON](Galaxy1/EuItalian.json)</td>
+        <td>German <a href="Galaxy1/EuGerman.html">HTML</a> / <a href="Galaxy1/EuGerman.json">JSON</a></td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td></td>
-        <td>Dutch [HTML](Galaxy1/EuDutch.html) / [JSON](Galaxy1/EuDutch.json)</td>
+        <td>Italian <a href="Galaxy1/EuItalian.html">HTML</a> / <a href="Galaxy1/EuItalian.json">JSON</a></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Dutch <a href="Galaxy1/EuDutch.html">HTML</a> / <a href="Galaxy1/EuDutch.json">JSON</a></td>
         <td></td>
         <td></td>
     </tr>
@@ -70,33 +70,33 @@ You can also find HTML files of each language individually here too:
         <td>Japanese</td>
     </tr>
     <tr>
-        <td>English [HTML](Galaxy2/UsEnglish.html) / [JSON](Galaxy2/UsEnglish.json)</td>
-        <td>English [HTML](Galaxy2/EuEnglish.html) / [JSON](Galaxy2/EuEnglish.json)</td>
-        <td>Japanese [HTML](Galaxy2/JpJapanese.html) / [JSON](Galaxy2/JpJapanese.json)</td>
+        <td>English <a href="Galaxy2/UsEnglish.html">HTML</a> / <a href="Galaxy2/UsEnglish.json">JSON</a></td>
+        <td>English <a href="Galaxy2/EuEnglish.html">HTML</a> / <a href="Galaxy2/EuEnglish.json">JSON</a></td>
+        <td>Japanese <a href="Galaxy2/JpJapanese.html">HTML</a> / <a href="Galaxy2/JpJapanese.json">JSON</a></td>
     </tr>
     <tr>
-        <td>French [HTML](Galaxy2/UsFrench.html) / [JSON](Galaxy2/UsFrench.json)</td>
-        <td>French [HTML](Galaxy2/EuFrench.html) / [JSON](Galaxy2/EuFrench.json)</td>
+        <td>French <a href="Galaxy2/UsFrench.html">HTML</a> / <a href="Galaxy2/UsFrench.json">JSON</a></td>
+        <td>French <a href="Galaxy2/EuFrench.html">HTML</a> / <a href="Galaxy2/EuFrench.json">JSON</a></td>
         <td></td>
     </tr>
     <tr>
-        <td>Spanish [HTML](Galaxy2/UsSpanish.html) / [JSON](Galaxy2/UsSpanish.json)</td>
-        <td>Spanish [HTML](Galaxy2/EuSpanish.html) / [JSON](Galaxy2/EuSpanish.json)</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>German [HTML](Galaxy2/EuGerman.html) / [JSON](Galaxy2/EuGerman.json)</td>
+        <td>Spanish <a href="Galaxy2/UsSpanish.html">HTML</a> / <a href="Galaxy2/UsSpanish.json">JSON</a></td>
+        <td>Spanish <a href="Galaxy2/EuSpanish.html">HTML</a> / <a href="Galaxy2/EuSpanish.json">JSON</a></td>
         <td></td>
     </tr>
     <tr>
         <td></td>
-        <td>Italian [HTML](Galaxy2/EuItalian.html) / [JSON](Galaxy2/EuItalian.json)</td>
+        <td>German <a href="Galaxy2/EuGerman.html">HTML</a> / <a href="Galaxy2/EuGerman.json">JSON</a></td>
         <td></td>
     </tr>
     <tr>
         <td></td>
-        <td>Dutch [HTML](Galaxy2/EuDutch.html) / [JSON](Galaxy2/EuDutch.json)</td>
+        <td>Italian <a href="Galaxy2/EuItalian.html">HTML</a> / <a href="Galaxy2/EuItalian.json">JSON</a></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Dutch <a href="Galaxy2/EuDutch.html">HTML</a> / <a href="Galaxy2/EuDutch.json">JSON</a></td>
         <td></td>
     </tr>
 </table>
