@@ -1,10 +1,10 @@
 # SuperMarioGalaxy12TextDump
-This is an archive of files that I generated based on the text files from
+This is an archive of files that I generated back in 2021 based on the text files from
 Super Mario Galaxy 1 and Super Mario Galaxy 2 for the Wii.
 
 They're available in HTML format, for viewing in browsers,
 or in JSON format, if you want to work with this text programmatically
-(or if you prefer looking at it in a JSON editor instead).
+(or if you prefer looking at it in a text editor that supports JSON instead).
 
 # Galaxy 1
 You can find the text of every language combined into one file here:
@@ -103,4 +103,10 @@ You can also find HTML files of each language individually here too:
 
 > There IS a Korean version, but it's missing here because I couldn't find it when I originally generated these files.
 
-> The Dutch version is identical to the European English version, it's just had its debug text removed/dummied out.
+> The Dutch version is identical to the European English version, just with its debug text files removed/dummied out.
+
+## Copyright...?
+I feel like this goes without saying, but I didn't create any of this text, and it was all generated based on the text data
+in Super Mario Galaxy and Super Mario Galaxy 2, made by Nintendo.
+
+For the files in this repo specifically, anyone can do whatever they want with it, I don't care about credit.
