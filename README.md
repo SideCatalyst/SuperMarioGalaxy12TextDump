@@ -12,7 +12,7 @@ You can find the text of every language combined into one file here:
 
 You can also find versions of each language individually here too:
 |US|Europe|Japanese|Korean|
-|:-:|:-:|:-:|:-:|
+|-|-|-|-|
 |English [HTML](Galaxy1/UsEnglish.html) / [JSON](Galaxy1/UsEnglish.json)|English [HTML](Galaxy1/EuEnglish.html) / [JSON](Galaxy1/EuEnglish.json)|Japanese [HTML](Galaxy1/JpJapanese.html) / [JSON](Galaxy1/JpJapanese.json)|Korean [HTML](Galaxy1/KrKorean.html) / [JSON](Galaxy1/KrKorean.json)|
 |French [HTML](Galaxy1/UsFrench.html) / [JSON](Galaxy1/UsFrench.json)|French [HTML](Galaxy1/EuFrench.html) / [JSON](Galaxy1/EuFrench.json)|||
 |Spanish [HTML](Galaxy1/UsSpanish.html) / [JSON](Galaxy1/UsSpanish.json)|Spanish [HTML](Galaxy1/EuSpanish.html) / [JSON](Galaxy1/EuSpanish.json)|||
@@ -28,7 +28,7 @@ You can find the text of every language combined into one file here:
 
 You can also find HTML files of each language individually here too:
 |US|Europe|Japanese|
-|:-:|:-:|:-:|
+|-|-|-|
 |English [HTML](Galaxy2/UsEnglish.html) / [JSON](Galaxy2/UsEnglish.json)|English [HTML](Galaxy2/EuEnglish.html) / [JSON](Galaxy2/EuEnglish.json)|Japanese [HTML](Galaxy2/JpJapanese.html) / [JSON](Galaxy2/JpJapanese.json)|
 |French [HTML](Galaxy2/UsFrench.html) / [JSON](Galaxy2/UsFrench.json)|French [HTML](Galaxy2/EuFrench.html) / [JSON](Galaxy2/EuFrench.json)|||
 |Spanish [HTML](Galaxy2/UsSpanish.html) / [JSON](Galaxy2/UsSpanish.json)|Spanish [HTML](Galaxy2/EuSpanish.html) / [JSON](Galaxy2/EuSpanish.json)|||
